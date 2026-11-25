@@ -2,10 +2,9 @@
 
 ## Sobre o projeto
 
-Este site foi desenvolvido como projeto final da faculdade de Análise e Desenvolvimento de Sistemas (ADS).
+Este site foi desenvolvido como atividade avaliativa (A1) da disciplina de Desenvolvimento Front-End para Web, do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-O objetivo é apresentar meu perfil pessoal, minha trajetória acadêmica, meus interesses e os conhecimentos que estou desenvolvendo durante a graduação.
-
+O objetivo do projeto é aplicar os conhecimentos adquiridos durante a disciplina, utilizando HTML, CSS e JavaScript na construção de um portfólio pessoal responsivo.
 ## Tecnologias utilizadas
 
 - HTML5
