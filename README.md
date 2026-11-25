@@ -7,8 +7,8 @@ Este site foi desenvolvido como atividade avaliativa (A1) da disciplina de Desen
 O objetivo do projeto é aplicar os conhecimentos adquiridos durante a disciplina, utilizando HTML, CSS e JavaScript na construção de um portfólio pessoal responsivo.
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git e GitHub
 - GitHub Pages
